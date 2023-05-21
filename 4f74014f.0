@@ -1,0 +1,78 @@
+-----BEGIN CERTIFICATE-----
+MIIDTzCCAjegAwIBAgIRChhSI/A4KUtUmPFqCd3dNRYwDQYJKoZIhvcNAQELBQAw
+QTEYMBYGA1UEAxMPSFRUUCBUb29sa2l0IENBMQswCQYDVQQGEwJYWDEYMBYGA1UE
+ChMPSFRUUCBUb29sa2l0IENBMB4XDTIyMTIyOTEzNDM0MFoXDTIzMTIzMDEzNDM0
+MFowQTEYMBYGA1UEAxMPSFRUUCBUb29sa2l0IENBMQswCQYDVQQGEwJYWDEYMBYG
+A1UEChMPSFRUUCBUb29sa2l0IENBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA1SJsBhn/WswVlA/XheaW+k9tJVt9PQfCOpQ8j6AyIQSfSKUKAJj4play
+j+VfAgjDYV6zyRPdv4ixbGv3l6aSZHXi+aampcXX1dS3JuDsgkifCrUG6xUySh7X
+Kr0iwJ63l+ux338n0Z0t5lbpRpHm4tSbLeRC0yL0CYWBgqWifMG6HA/YBvC803nN
+ctbCzhn67yjgzApjdhDvKC2ASG2trtZoI8L8N+WwHYDNjEDTsgyeSLnAetdwVgvA
+Gp9ArfBopwLWVyMfkHMIFfbar/cG9A8zoCWm1ZNQg4PAvEM46xtgFsAvdaGRSBka
+82jImmOjz0/EWyDL2sh6caiosbxBjwIDAQABo0IwQDAPBgNVHRMBAf8EBTADAQH/
+MA4GA1UdDwEB/wQEAwIBxjAdBgNVHQ4EFgQUJo8lcanU1BotRS/pM8tATeQFWOQw
+DQYJKoZIhvcNAQELBQADggEBAEhPTkSBrizcpdWdSK9L506uYTo5WvOfR9X8wKv1
+m+92X9l0k5rLJ90Ijp1a8XRR7jUPBC7MYUvfex1mpLL/YUr4ip3hhov/JSY1CAbu
+nH/4LNdBbHaIB56vJ+GCqnip9/Xnc73ubmO2unsMR7RSzwOhKM9lYjdK8xBjyO9T
+TavVHc62LUXK0PL6ET5lmUyiN7mKp49xFCYtctxKUP9RHOF/WE4/ON29riU5NyxA
+OIXFkt9Mfbpi2EIVDQG9FU/ADa/N50sAKPWwI/XmD0QOWresAT5oYfX2mOiTHblc
+sQWd+xBuOZ03Gw08z/zMs1uUqbnATx9DR4BWa4n7Evl9+AU=
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            0a:18:52:23:f0:38:29:4b:54:98:f1:6a:09:dd:dd:35:16
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=HTTP Toolkit CA, C=XX, O=HTTP Toolkit CA
+        Validity
+            Not Before: Dec 29 13:43:40 2022 GMT
+            Not After : Dec 30 13:43:40 2023 GMT
+        Subject: CN=HTTP Toolkit CA, C=XX, O=HTTP Toolkit CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d5:22:6c:06:19:ff:5a:cc:15:94:0f:d7:85:e6:
+                    96:fa:4f:6d:25:5b:7d:3d:07:c2:3a:94:3c:8f:a0:
+                    32:21:04:9f:48:a5:0a:00:98:f8:a6:56:b2:8f:e5:
+                    5f:02:08:c3:61:5e:b3:c9:13:dd:bf:88:b1:6c:6b:
+                    f7:97:a6:92:64:75:e2:f9:a6:a6:a5:c5:d7:d5:d4:
+                    b7:26:e0:ec:82:48:9f:0a:b5:06:eb:15:32:4a:1e:
+                    d7:2a:bd:22:c0:9e:b7:97:eb:b1:df:7f:27:d1:9d:
+                    2d:e6:56:e9:46:91:e6:e2:d4:9b:2d:e4:42:d3:22:
+                    f4:09:85:81:82:a5:a2:7c:c1:ba:1c:0f:d8:06:f0:
+                    bc:d3:79:cd:72:d6:c2:ce:19:fa:ef:28:e0:cc:0a:
+                    63:76:10:ef:28:2d:80:48:6d:ad:ae:d6:68:23:c2:
+                    fc:37:e5:b0:1d:80:cd:8c:40:d3:b2:0c:9e:48:b9:
+                    c0:7a:d7:70:56:0b:c0:1a:9f:40:ad:f0:68:a7:02:
+                    d6:57:23:1f:90:73:08:15:f6:da:af:f7:06:f4:0f:
+                    33:a0:25:a6:d5:93:50:83:83:c0:bc:43:38:eb:1b:
+                    60:16:c0:2f:75:a1:91:48:19:1a:f3:68:c8:9a:63:
+                    a3:cf:4f:c4:5b:20:cb:da:c8:7a:71:a8:a8:b1:bc:
+                    41:8f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Key Usage: critical
+                Digital Signature, Non Repudiation, Certificate Sign, CRL Sign
+            X509v3 Subject Key Identifier:
+                26:8F:25:71:A9:D4:D4:1A:2D:45:2F:E9:33:CB:40:4D:E4:05:58:E4
+    Signature Algorithm: sha256WithRSAEncryption
+         48:4f:4e:44:81:ae:2c:dc:a5:d5:9d:48:af:4b:e7:4e:ae:61:
+         3a:39:5a:f3:9f:47:d5:fc:c0:ab:f5:9b:ef:76:5f:d9:74:93:
+         9a:cb:27:dd:08:8e:9d:5a:f1:74:51:ee:35:0f:04:2e:cc:61:
+         4b:df:7b:1d:66:a4:b2:ff:61:4a:f8:8a:9d:e1:86:8b:ff:25:
+         26:35:08:06:ee:9c:7f:f8:2c:d7:41:6c:76:88:07:9e:af:27:
+         e1:82:aa:78:a9:f7:f5:e7:73:bd:ee:6e:63:b6:ba:7b:0c:47:
+         b4:52:cf:03:a1:28:cf:65:62:37:4a:f3:10:63:c8:ef:53:4d:
+         ab:d5:1d:ce:b6:2d:45:ca:d0:f2:fa:11:3e:65:99:4c:a2:37:
+         b9:8a:a7:8f:71:14:26:2d:72:dc:4a:50:ff:51:1c:e1:7f:58:
+         4e:3f:38:dd:bd:ae:25:39:37:2c:40:38:85:c5:92:df:4c:7d:
+         ba:62:d8:42:15:0d:01:bd:15:4f:c0:0d:af:cd:e7:4b:00:28:
+         f5:b0:23:f5:e6:0f:44:0e:5a:b7:ac:01:3e:68:61:f5:f6:98:
+         e8:93:1d:b9:5c:b1:05:9d:fb:10:6e:39:9d:37:1b:0d:3c:cf:
+         fc:cc:b3:5b:94:a9:b9:c0:4f:1f:43:47:80:56:6b:89:fb:12:
+         f9:7d:f8:05
+SHA1 Fingerprint=BE:92:96:BF:07:57:1E:24:5C:2E:33:59:66:D6:D3:34:2B:04:5C:32
